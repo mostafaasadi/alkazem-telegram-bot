@@ -1,6 +1,6 @@
-# alkazem-telegram-bot
+[# 🤖 alkazem-telegram-bot](https://t.me/alkazem_bot)
 <div dir="rtl">
-![موسی‌بن‌جعفری‌ام](hazrat.png)
+![موسی‌بن‌جعفری‌ام](https://raw.githubusercontent.com/mostafaasadi/alkazem-telegram-bot/master/hazrat.png)
 
 ## رباتی تلگرامی برای تغییر عکس پروفایل در پویش موسی‌بن‌جعفری‌ام
 
